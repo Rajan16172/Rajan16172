@@ -3,12 +3,14 @@
 Hi, I'm Rajan Singh Rawat 👋
 Automotive Wiring Harness Design Engineer | Machine Learning | Generative AI
 I'm an automotive design engineer with 3+ years of experience in wiring harness development for passenger-vehicle and hybrid/EV applications. I'm expanding into Machine Learning and Generative AI, with a focus on applying data-driven methods to automotive and engineering problems.
+
 ##About Me
 - 🚗 Automotive engineering: low-voltage wiring harness design, 3D routing and packaging, drawing release, and vehicle integration.
 - 🧠 AI/ML learning: Python, data analysis, feature engineering, classification, regression, and anomaly detection.
 - 🤖 GenAI exploration: LLM workflows, embeddings, vector databases, and Retrieval-Augmented Generation (RAG).
 - 🎓 Professional Certificate Program in Generative AI & Machine Learning — E&ICT Academy, IIT Kanpur.
 - 🎯 Career interest: Automotive AI/ML, manufacturing analytics, predictive maintenance, and AI-enabled engineering applications.
+- 
 ##Technical Skills
 Automotive & CAD
 - Wiring harness design and development
@@ -24,6 +26,7 @@ Python & Machine Learning
 Generative AI
 - LangChain, embeddings, vector databases, Chroma, LM Studio
 - Learning and experimenting with LLM and RAG workflows
+  
 ##Projects
 Replace the placeholders below with the actual project names, datasets, objectives, methods, and results before publishing. Do not publish confidential employer or course material unless you have permission.
 
