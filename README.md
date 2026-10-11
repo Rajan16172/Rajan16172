@@ -10,8 +10,9 @@ I'm an automotive design engineer with 3+ years of experience in wiring harness 
 - 🤖 GenAI exploration: LLM workflows, embeddings, vector databases, and Retrieval-Augmented Generation (RAG).
 - 🎓 Professional Certificate Program in Generative AI & Machine Learning — E&ICT Academy, IIT Kanpur.
 - 🎯 Career interest: Automotive AI/ML, manufacturing analytics, predictive maintenance, and AI-enabled engineering applications.
-- 
+  
 ##Technical Skills
+
 Automotive & CAD
 - Wiring harness design and development
 - Low-voltage harnesses for hybrid/EV and passenger-vehicle applications
@@ -28,6 +29,7 @@ Generative AI
 - Learning and experimenting with LLM and RAG workflows
   
 ##Projects
+
 Replace the placeholders below with the actual project names, datasets, objectives, methods, and results before publishing. Do not publish confidential employer or course material unless you have permission.
 
 1. AI + Automotive Project
